@@ -1,0 +1,42 @@
+* {
+	margin:0;
+	paddding:0;
+	border:0;
+}
+
+body {
+	background-color: #74B6CC;
+}
+
+h1 {
+	color: #50235E;
+	font-size:50px;
+	font-family:Arial;
+	margin:20px auto;
+	text-align:center;
+}
+
+img {
+	width:300px;
+	height:270px;
+	/display: block;
+}
+
+#hearts {
+	width:100px;
+	height:100px;
+}
+
+div {
+	text-align: center;
+}
+
+form {
+	margin: 50px 0;
+	text-align: center;
+}
+
+label {
+	font-size: 30px;
+}
+
